@@ -1,0 +1,14 @@
+.parent {
+  padding: 30px;
+  color: white;
+}
+.child {
+  width: 100px;
+  min-height: 150px;
+  background-color: gray;
+  margin: 10px;
+}
+
+.parent {
+  display: flex;
+}
